@@ -17,3 +17,5 @@ Mobile-first static website for GitHub Pages.
 
 ## Replace images
 The gallery currently uses royalty-free placeholder images. Replace them with official cafe images in `/assets/` and update the image `src` values.
+
+Update: Quick Info section and Call Now CTA buttons have been removed. Location pages keep phone information and Directions buttons only.
