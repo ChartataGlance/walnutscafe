@@ -1,21 +1,13 @@
-# Walnuts Cafe static website
+# Walnut's Cafe static website
 
-Mobile-first static website for GitHub Pages.
+Mobile-first static website for GitHub hosting.
 
-## Pages
-- index.html
-- about.html
-- menu.html
-- locations.html
-- gallery.html
+## Included
+- Home, About, Menu, Locations and Gallery pages
+- Walnut's Cafe logo and W icon assets
+- Favicon / Apple touch icon
+- SEO meta tags and restaurant schema
+- No contact form and no Call Now CTA buttons
+- Footer credit: Website managed by ChartAtAGlance
 
-## Deploy to GitHub Pages
-1. Upload these files to the repository root.
-2. Go to Settings > Pages.
-3. Select branch: main, folder: /root.
-4. Add custom domain `walnutscafe.co.uk` in Pages settings.
-
-## Replace images
-The gallery currently uses royalty-free placeholder images. Replace them with official cafe images in `/assets/` and update the image `src` values.
-
-Update: Quick Info section and Call Now CTA buttons have been removed. Location pages keep phone information and Directions buttons only.
+Upload the contents of this folder to the GitHub Pages repository.
